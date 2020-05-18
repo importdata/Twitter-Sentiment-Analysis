@@ -8,6 +8,8 @@
 - Built a model using Support Vector Classifier
 - Achieved a 95% accuracy
 
+-------------------------------------------------------------------------------------------------------
+
 **Data Collection**
 
 1. Understanding the dataset

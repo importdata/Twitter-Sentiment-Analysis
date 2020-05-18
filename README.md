@@ -9,3 +9,7 @@
  - Now that you have an understanding of the dataset, go ahead and download two csv files - the training and the test data. Simply click "Download (5MB)."
 
 **Data Exploration (Exploratory Data Analysis)**
+
+![](/images/1.png)
+
+![](/images/2..png)

@@ -12,6 +12,8 @@
 
 **Data Collection**
 
+- Link to the dataset: https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
+
 1. Understanding the dataset
  - Let's read the context of the dataset to understand the problem statement. 
  - In the training data, tweets are labeled '1' if they are associated with the racist or sexist sentiment. Otherwise, tweets are labeled '0'. 

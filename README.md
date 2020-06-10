@@ -60,7 +60,7 @@
 
 **Accuracy**
 - And here we go! The accuracy turned out to be 95%!
-![](/images/5.png)
+![](/images/6.png)
 
 
 
